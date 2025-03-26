@@ -6,14 +6,14 @@ JustNoteApp is a beautifully designed and user-friendly note-taking app built wi
 
 ## 📸 Screenshots  
 
-### Set Reminder Screen  
-<img src="https://raw.githubusercontent.com/kurog1ri/JustNoteApp/main/Screenshots/set_reminder.jpg" width="300">  
+### 📌 Set Reminder Screen  
+<img src="https://raw.githubusercontent.com/kurog1ri/JustNoteApp/main/Screenshots/notes_list.jpg" width="300">  
 
-### Custom Time Picker  
+### 🕰 Custom Time Picker  
 <img src="https://raw.githubusercontent.com/kurog1ri/JustNoteApp/main/Screenshots/custom_time_picker.jpg" width="300">  
 
-### Notes List with Reminder Notifications  
-<img src="https://raw.githubusercontent.com/kurog1ri/JustNoteApp/main/Screenshots/notes_list.jpg" width="300">  
+### ⏰ Notes List with Reminder Notifications  
+<img src="https://raw.githubusercontent.com/kurog1ri/JustNoteApp/main/Screenshots/set_reminder.jpg" width="300">  
 
 ---
 
